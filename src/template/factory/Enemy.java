@@ -17,5 +17,5 @@ public abstract class Enemy {
     protected abstract boolean calculateHitChance();
     protected abstract float calculateDamage();
 
-    private int level;
+    protected int level;
 }
