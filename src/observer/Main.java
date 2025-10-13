@@ -7,7 +7,7 @@ public class Main {
 
         subject.addObserver(observer);
 
-        // TODO This line should update the value in the "user interface"
+        // This line should update the value in the "user interface"
         subject.setValue(15);
 
         subject.removeObserver(observer);
