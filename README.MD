@@ -1,6 +1,6 @@
 # Software templates
 
-Software templates lab project for TU Sofia. Examples are intentionally unfinished for students to complete them.
+Software templates lab project for TU Sofia. Demonstrates various design patterns. Examples are intentionally unfinished for students to complete them.
 
 ## Requirements
 
