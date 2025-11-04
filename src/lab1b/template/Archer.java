@@ -1,4 +1,4 @@
-package template.factory;
+package lab1b.template;
 
 public class Archer extends Enemy {
     public Archer(int level) {

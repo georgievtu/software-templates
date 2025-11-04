@@ -1,4 +1,4 @@
-package template.factory;
+package lab1b.template;
 
 public class Knight extends Enemy {
     public Knight(int level) {

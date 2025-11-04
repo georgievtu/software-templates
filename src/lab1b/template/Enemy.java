@@ -1,4 +1,4 @@
-package template.factory;
+package lab1b.template;
 
 public abstract class Enemy {
     public Enemy(int level) {

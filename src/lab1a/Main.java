@@ -1,8 +1,8 @@
-package lab1;
+package lab1a;
 
-import lab1.observer.IntObserver;
-import lab1.observer.ObservableInt;
-import lab1.observer.Observer;
+import lab1a.observer.IntObserver;
+import lab1a.observer.ObservableInt;
+import lab1a.observer.Observer;
 
 public class Main {
     public static void main(String[] args) {

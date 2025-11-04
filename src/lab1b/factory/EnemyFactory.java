@@ -1,4 +1,7 @@
-package template.factory;
+package lab1b.factory;
+
+import lab1b.template.Difficulty;
+import lab1b.template.Enemy;
 
 import java.util.ArrayList;
 import java.util.List;

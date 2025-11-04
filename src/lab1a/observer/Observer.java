@@ -1,4 +1,4 @@
-package lab1.observer;
+package lab1a.observer;
 
 public interface Observer {
     void update(int value);
