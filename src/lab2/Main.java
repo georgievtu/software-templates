@@ -1,4 +1,7 @@
-package iterator.facade.proxy;
+package lab2;
+
+import lab2.facade.App;
+import lab2.iterator.StudentCollection;
 
 public class Main {
     public static void main(String[] args) {

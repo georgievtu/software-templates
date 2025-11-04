@@ -1,4 +1,6 @@
-package iterator.facade.proxy;
+package lab2.iterator;
+
+import lab2.Student;
 
 import java.util.List;
 

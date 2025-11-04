@@ -1,4 +1,4 @@
-package iterator.facade.proxy;
+package lab2;
 
 public class Student {
     public Student(String name, String facultyNumber, int group) {
