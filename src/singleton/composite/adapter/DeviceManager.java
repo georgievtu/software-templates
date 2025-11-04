@@ -38,6 +38,5 @@ public class DeviceManager {
         private static final DeviceManager INSTANCE = null;
     }
 
-    private static volatile DeviceManager instance;
     private final List<Device> devices;
 }
