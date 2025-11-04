@@ -1,6 +1,5 @@
-package observer;
+package lab1.observer;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class ObservableInt implements Observable {

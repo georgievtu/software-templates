@@ -1,4 +1,4 @@
-package observer;
+package lab1.observer;
 
 public class IntObserver implements Observer {
     @Override

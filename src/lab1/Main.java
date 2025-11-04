@@ -1,4 +1,8 @@
-package observer;
+package lab1;
+
+import lab1.observer.IntObserver;
+import lab1.observer.ObservableInt;
+import lab1.observer.Observer;
 
 public class Main {
     public static void main(String[] args) {
