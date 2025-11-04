@@ -1,4 +1,8 @@
-package state.strategy.decorator;
+package lab3b;
+
+import lab3b.decorator.BasicDrone;
+import lab3b.decorator.Drone;
+import lab3b.decorator.LoggingDrone;
 
 public class Main {
     public static void main(String[] args) {

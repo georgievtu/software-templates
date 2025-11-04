@@ -1,4 +1,4 @@
-package state.strategy.decorator;
+package lab3b.decorator;
 
 // TODO This can be used to log the time
 import java.time.LocalDateTime;

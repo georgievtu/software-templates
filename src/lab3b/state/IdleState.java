@@ -1,4 +1,4 @@
-package state.strategy.decorator;
+package lab3b.state;
 
 public class IdleState implements DroneState {
     @Override

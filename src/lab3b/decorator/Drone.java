@@ -1,4 +1,4 @@
-package state.strategy.decorator;
+package lab3b.decorator;
 
 // Decorator interface
 // Use to extend functionalities

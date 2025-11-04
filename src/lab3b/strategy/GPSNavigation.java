@@ -1,4 +1,4 @@
-package state.strategy.decorator;
+package lab3b.strategy;
 
 public class GPSNavigation implements NavigationStrategy {
     @Override

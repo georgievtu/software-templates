@@ -1,4 +1,6 @@
-package state.strategy.decorator;
+package lab3b.decorator;
+
+import lab3b.state.DroneContext;
 
 public class BasicDrone implements Drone {
     public BasicDrone(boolean goodWeather) {

@@ -1,4 +1,6 @@
-package state.strategy.decorator;
+package lab3b.state;
+
+import lab3b.strategy.NavigationStrategy;
 
 public class DroneContext {
     public DroneContext(boolean goodWeather) {
