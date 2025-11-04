@@ -9,7 +9,7 @@ public class LoggingDrone implements Drone {
     }
 
     @Override
-    public void operate(double distanceKm) {
+    public void operate(double distance) {
         // TODO This drone should log the operation with a timestamp
     }
 
