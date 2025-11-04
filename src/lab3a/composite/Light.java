@@ -1,4 +1,4 @@
-package singleton.composite.adapter;
+package lab3a.composite;
 
 public class Light implements Device {
     public Light(String name) {

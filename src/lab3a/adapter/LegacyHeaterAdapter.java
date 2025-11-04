@@ -1,4 +1,6 @@
-package singleton.composite.adapter;
+package lab3a.adapter;
+
+import lab3a.composite.Device;
 
 public class LegacyHeaterAdapter implements Device {
     public LegacyHeaterAdapter(LegacyHeater legacyHeater) {

@@ -1,4 +1,4 @@
-package singleton.composite.adapter;
+package lab3a.composite;
 
 public class AirConditioner implements Device {
     public AirConditioner(String name) {

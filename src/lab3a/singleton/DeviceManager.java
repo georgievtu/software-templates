@@ -1,4 +1,6 @@
-package singleton.composite.adapter;
+package lab3a.singleton;
+
+import lab3a.composite.Device;
 
 import java.util.ArrayList;
 import java.util.List;

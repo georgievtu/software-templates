@@ -1,4 +1,4 @@
-package singleton.composite.adapter;
+package lab3a.adapter;
 
 // This class does not implement Device
 // Adapter is required

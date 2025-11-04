@@ -1,4 +1,12 @@
-package singleton.composite.adapter;
+package lab3a;
+
+import lab3a.adapter.LegacyHeater;
+import lab3a.adapter.LegacyHeaterAdapter;
+import lab3a.composite.AirConditioner;
+import lab3a.composite.Device;
+import lab3a.composite.DeviceGroup;
+import lab3a.composite.Light;
+import lab3a.singleton.DeviceManager;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
