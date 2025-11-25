@@ -22,6 +22,8 @@ Software templates lab project for TU Sofia. Demonstrates various design pattern
     git clone https://github.com/georgievtu/software-templates
     ```
 
-## Example project
+## Example projects for students
 
-Includes an [example](https://github.com/Alex-Tsvetanov/MetroSim) project by [Alex Tsvetanov](https://github.com/Alex-Tsvetanov) with documentation. Clone recursively to include it as a submodule.
+Clone recursively (``git clone --recursive``) to include them as submodules.
+1. [Main example](https://github.com/georgievtu/st-example) with 3 design patterns.
+2. More complex [example](https://github.com/Alex-Tsvetanov/MetroSim) project by [Alex Tsvetanov](https://github.com/Alex-Tsvetanov).
