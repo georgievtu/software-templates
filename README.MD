@@ -24,6 +24,6 @@ Software templates lab project for TU Sofia. Demonstrates various design pattern
 
 ## Example projects for students
 
-Clone recursively (``git clone --recursive``) to include them as submodules.
+Clone recursively (``git clone --recursive``) to include them as submodules. If the clone was made non-recursively use ``git submodule update --init --recursive``
 1. [Main example](https://github.com/georgievtu/st-example) with 3 design patterns.
 2. More complex [example](https://github.com/Alex-Tsvetanov/MetroSim) project by [Alex Tsvetanov](https://github.com/Alex-Tsvetanov).
