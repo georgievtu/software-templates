@@ -1,3 +1,6 @@
 [submodule "MetroSim"]
 	path = MetroSim
 	url = https://github.com/Alex-Tsvetanov/MetroSim
+[submodule "st-example"]
+	path = st-example
+	url = https://github.com/georgievtu/st-example
